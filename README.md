@@ -15,12 +15,11 @@ I study Computer Science at TUDelft 🎓 and Mathematics at VU Amsterdam 📘. I
 - Organized the Qiskit Fall Fest 2025 at TU Delft ⚛️.
 
 ## Experience
-- **Helin (Energy Tech):** Investigate and build multi-camera, multi-object stitching 🎥; calibrate cameras 📷; derive and chain homographies 🔗
-- **ASML (Metrology):** Model wafer alignment 🎯, run numerical optimization 📐, and develop internal tooling for wafer alignment research 🧪.
+- **Helin (Energy Tech):** Investigate and build multi-camera, multi-object stitching; calibrate cameras ; derive and chain homographies.
+- **ASML (Metrology):** Model wafer alignment, run numerical optimization, and develop internal tooling for wafer alignment research.
 
 ## Interests
-I enjoy solving optimization problems 🔢, building numerical methods 📏, designing research workflows 🛠️, and applying computer vision to real systems 👁️.
+I enjoy solving optimization problem, building numerical methods, and quantiative research.
 
 ## Connect
-- LinkedIn: <your link> 🔗
-- Open an issue or discussion on any pinned repo 📬
+- LinkedIn: <[your link](https://www.linkedin.com/in/mihaibobeica/)> 🔗

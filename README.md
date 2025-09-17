@@ -19,7 +19,7 @@ I study Computer Science at TUDelft 🎓 and Mathematics at VU Amsterdam 📘. I
 - **ASML (Metrology):** Model wafer alignment, run numerical optimization, and develop internal tooling for wafer alignment research.
 
 ## Interests
-I enjoy solving optimization problem, building numerical methods, and quantiative research.
+I enjoy solving optimization problem, building numerical methods, and quantitative research.
 
 ## Connect
 - LinkedIn: <[your link](https://www.linkedin.com/in/mihaibobeica/)> 🔗

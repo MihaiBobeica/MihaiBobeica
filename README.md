@@ -22,4 +22,4 @@ I study Computer Science at TUDelft 🎓 and Mathematics at VU Amsterdam 📘. I
 I enjoy solving optimization problem, building numerical methods, and quantitative research.
 
 ## Connect
-- LinkedIn: <[your link](https://www.linkedin.com/in/mihaibobeica/)> 🔗
+- LinkedIn: <[Mihai Bobeica](https://www.linkedin.com/in/mihaibobeica/)> 🔗

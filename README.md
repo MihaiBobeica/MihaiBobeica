@@ -1,6 +1,6 @@
 # Mihai Bobeica
 
-I study Computer Science at TUDelft 🎓 and Mathematics at VU Amsterdam 📘. I aim to break into quantitative research by delivering real projects 📊.
+I study Computer Science at TUDelft 🎓 and Mathematics at VU Amsterdam 📘.
 
 ## Ambition
 - Try as many roles across math and computer science as I can before graduating 🧩.

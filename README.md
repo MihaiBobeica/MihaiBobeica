@@ -1,7 +1,5 @@
 # Mihai Bobeica
-
-I study Computer Science at TUDelft 🎓 and Mathematics at VU Amsterdam 📘.
-
+## Professional Lifemaxxer
 ## Ambition
 - Try as many roles across math and computer science as I can before graduating 🧩.
 - Expand my quantitative skills by building focused, open-source projects 💻.

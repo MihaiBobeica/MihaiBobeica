@@ -1,23 +1,11 @@
 # Mihai Bobeica
-## Professional Lifemaxxer
-## Ambition
-- Try as many roles across math and computer science as I can before graduating 🧩.
-- Expand my quantitative skills by building focused, open-source projects 💻.
+Professional Lifemaxxer
 
-## Highlights
-- Placed 2nd 🥈 in the Optiver Trading competition (TU Delft).
-- Won a wildfire-prediction hackathon 🔥.
-- Earned a Romanian Math Olympiad bronze medal 🏅.
-- TA-ed the Machine Learning course 🤖.
-- Investigated as part of the EDU-LLM Fellowship Project the optimal integration of LLMs in education 📚.
-- Organized the Qiskit Fall Fest 2025 at TU Delft ⚛️.
+So far, that has meant math olympiads, ASML, startups, flying to other countries for hackathons, and even getting forklift certified.
 
-## Experience
-- **Helin (Energy Tech):** Investigate and build multi-camera, multi-object stitching; calibrate cameras ; derive and chain homographies.
-- **ASML (Metrology):** Model wafer alignment, run numerical optimization, and develop internal tooling for wafer alignment research.
+## The current objective is simple
+Do cool shit. Meet smart people. Build things. Travel. Learn as much as possible.
 
-## Interests
-I enjoy solving optimization problem, building numerical methods, and quantitative research.
 
 ## Connect
 - LinkedIn: <[Mihai Bobeica](https://www.linkedin.com/in/mihaibobeica/)> 🔗

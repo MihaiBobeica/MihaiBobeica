@@ -6,7 +6,7 @@ So far, that has meant math olympiads, ASML, startups, flying to other countries
 
 ## The current objective is simple
 
-Do cool shit. Meet smart people. Build things. Travel. Learn as much as possible.
+Do cool things. Meet smart people. Build things. Travel. Learn as much as possible.
 
 ## Cool things I've built
 
